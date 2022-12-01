@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name = "paodate",
+    name = "zato-ext-paodate",
     version = "1.3",
     description = "Easy object-oriented date and time handling for Python",
     long_description = """Overview
